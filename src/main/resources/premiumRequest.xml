@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                 xmlns:us="http://nasir.com/premiummember">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <us:getPremiumMemberRequest>
+            <us:name>Nasir</us:name>
+        </us:getPremiumMemberRequest>
+    </soapenv:Body>
+</soapenv:Envelope>

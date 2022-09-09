@@ -1,0 +1,7 @@
+*.txt
+/target/*
+*.classpath
+/bin/*
+*.project
+/target/
+/src/main/java/com/nasir/premiummember/*
